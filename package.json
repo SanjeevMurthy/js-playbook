@@ -1,0 +1,21 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "try out different npm packages",
+  "main": "json-schema-validator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sanjeev",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-preset-latest": "^6.24.1"
+  },
+  "dependencies": {
+    "boom": "^5.2.0",
+    "lodash": "^4.17.4",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
