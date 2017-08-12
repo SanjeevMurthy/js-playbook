@@ -1,0 +1,7 @@
+{
+  "InvalidCreateOrderEntity":{
+    "code":"CUOR_2002",
+    "message":"Invalid ORDER entity - Missing Header, Delivery or Customer entity",
+    "status":400
+  }
+}
